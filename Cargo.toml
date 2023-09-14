@@ -1,0 +1,12 @@
+[package]
+name = "albloom"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+axum = "0.6.20"
+leptos = "0.4.10"
+serde = "1.0.188"
+tower-http = "0.4.4"
